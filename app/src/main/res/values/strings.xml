@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyGalary</string>
+    <string name="photo_1">Bebras photo number one</string>
+    <string name="photo_2">Bebras photo number two</string>
+    <string name="photo_3">Bebras photo number three</string>
+    <string name="photo_placeholder">PlaceHolder</string>
+
+    <string name="desc_1">Beautiful photo - Bebra is resting on de cauch</string>
+    <string name="desc_2">Powerful photo - Bebra is showing us her elegance</string>
+    <string name="desc_3">Chill photo - Bebra is chilling on de windowsill</string>
+    <string name="desc_placeholder">PlaceHolder</string>
+
+    <string name="add_desc_1">Will fill later - Im to lazy to do this project as I wanted</string>
+    <string name="add_desc_2">Will fill later - Im to lazy to do this project as I wanted</string>
+    <string name="add_desc_3">Will fill later - Im to lazy to do this project as I wanted</string>
+    <string name="add_desc_placeholder">Placeholder</string>
+</resources>
